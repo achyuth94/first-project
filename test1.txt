@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 6ABA-51DD
-
- Directory of C:\Users\achyuth94\Desktop\My folder
-
-08-10-2018  23:18    <DIR>          .
-08-10-2018  23:18    <DIR>          ..
-08-10-2018  23:18               165 test1.txt
-               1 File(s)            165 bytes
-               2 Dir(s)  293,556,903,936 bytes free
+ change1
